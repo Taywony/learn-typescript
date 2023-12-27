@@ -10,8 +10,8 @@ type People = {
 }
 
 
-let taywony: People = {
-  name: 'taywony',
+let taewon: People = {
+  name: 'taewon',
   age: 31,
 }
 
