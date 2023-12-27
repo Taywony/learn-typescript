@@ -30,8 +30,8 @@ interface SumFunction {
 }
 
 
-let sum: SumFunction
-sum = function(a: number, b: number): number{
+let sumFunc: SumFunction
+sumFunc = function(a: number, b: number): number{
   return a + b;
 }
 
