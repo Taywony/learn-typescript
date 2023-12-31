@@ -58,8 +58,8 @@ const b = logText2(1000)
 
 // string 탑입의 파라미터를 받아서 그 값을 변수 a에 저장해도 a의 타입이 string으로 확정되지 않고 계속 유니온 타입으로 남아있다.
 // 이러한 문제점은 string 타입에 제공되는 속성을 사용하려고 해도 number 타입에서는 사용이 불가능한 속성들은 사용할 수가 없다.
-a.split('')
-b.toFixed()
+// a.split('')
+// b.toFixed()
 
 
 
